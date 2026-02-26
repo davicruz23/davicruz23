@@ -1,6 +1,70 @@
-### Olá!! Sou Davi, Estudante de Analise e Desenvolvimento de Sistemas pela EAJ-UFRN.
+# 👋 Olá, eu sou o Davi Cruz
 
-- 🌱 Estudando Kotlin/Flutter/Java/Spring-Boot
+🔹 Desenvolvedor Back-End Java | Spring Boot  
+🔹 Foco em APIs REST seguras, autenticação com OAuth2 (Keycloak) e JWT  
+🔹 Experiência com Docker, arquitetura em camadas e boas práticas (SOLID)  
+
+Sou estudante de Análise e Desenvolvimento de Sistemas e atuo no desenvolvimento de aplicações web com foco em back-end, segurança e organização arquitetural. Tenho experiência prática na construção de APIs REST utilizando Spring Boot, integração com front-end (Angular) e persistência de dados com JPA/Hibernate.
+
+---
+
+## 💻 Principais Projetos
+
+### 🔐 Gestão de APIs Seguras (Spring Boot + Keycloak)
+API REST desenvolvida com Spring Boot, implementando autenticação e autorização via OAuth2 e JWT utilizando Keycloak.  
+Arquitetura organizada em camadas (Controller, Service, Repository), persistência com JPA/Hibernate e banco relacional.
+
+📌 Foco em segurança, organização de código e boas práticas REST.
+
+---
+
+### 💼 RotaCred – Sistema de Gestão Completo
+Sistema composto por:
+
+- 🔹 API REST em Spring Boot  
+- 🔹 Aplicativo Mobile em Flutter  
+- 🔹 Painel Web administrativo com React
+
+Inclui modelagem relacional, organização arquitetural, integração entre camadas e estrutura preparada para evolução e escalabilidade.
+
+📌 Projeto full-stack demonstrando integração entre backend, mobile e web.
+
+---
+
+### 🌐 Aplicação AD – Sistema Web Integrado
+Sistema web com:
+
+- Back-end em Spring Boot  
+- Front-end em Angular  
+- Integração via APIs REST  
+- Persistência com JPA/Hibernate  
+
+📌 Demonstra integração completa entre front-end e back-end, além de organização modular do sistema.
+
+---
+
+## 🛠 Tecnologias e Ferramentas
+
+**Back-End:** Java, Spring Boot, JPA, Hibernate, REST  
+**Segurança:** Spring Security, OAuth2, JWT, Keycloak  
+**Banco de Dados:** MySQL, PostgreSQL  
+**Front-End:** Angular, React, HTML, CSS, JavaScript  
+**DevOps:** Docker, Jenkins  
+**Metodologias:** Scrum, Git, Jira  
+**Princípios:** SOLID, Arquitetura em Camadas  
+
+---
+
+## 📈 Atualmente
+
+🚀 Atuando como desenvolvedor na SEAP - Secretaria de Estado da Administração Penitenciária
+📚 Estudando e aprofundando conhecimentos em arquitetura e segurança de APIs  
+🎯 Buscando oportunidades para evoluir como desenvolvedor Back-End
+
+---
+
+🔗 LinkedIn: davi-cruz-de-souza-381859244  
+📫 Email: davifieledeus@gmail.com
 
   ##
 
